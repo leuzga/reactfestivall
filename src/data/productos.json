@@ -1,0 +1,236 @@
+[
+    {
+        "id": "01",
+        "nombre": "Juego de fútbol",
+        "descripcion": "De 2 a 4 jugadores por partido",
+        "cantidad": 4,
+        "alquiler": 300
+    },
+    {
+        "id": "02",
+        "nombre": "Máquina de arcade",
+        "descripcion": "Juego clásico de arcade para diversión sin fin",
+        "cantidad": 2,
+        "alquiler": 250
+    },
+    {
+        "id": "03",
+        "nombre": "Mesa de ping pong",
+        "descripcion": "Mesa de tamaño completo para partidos de ping pong",
+        "cantidad": 1,
+        "alquiler": 200
+    },
+    {
+        "id": "04",
+        "nombre": "Máquina de baile",
+        "descripcion": "Pon a prueba tus habilidades de baile con esta máquina interactiva",
+        "cantidad": 2,
+        "alquiler": 350
+    },
+    {
+        "id": "05",
+        "nombre": "Máquina de air hockey",
+        "descripcion": "Juego rápido y divertido para todas las edades",
+        "cantidad": 3,
+        "alquiler": 300
+    },
+    {
+        "id": "06",
+        "nombre": "Máquina de pinball",
+        "descripcion": "Juego retro de pinball para los amantes de lo clásico",
+        "cantidad": 2,
+        "alquiler": 275
+    },
+    {
+        "id": "07",
+        "nombre": "Máquina de carreras",
+        "descripcion": "Simulador de carreras para los amantes de la velocidad",
+        "cantidad": 2,
+        "alquiler": 325
+    },
+    {
+        "id": "08",
+        "nombre": "Máquina de boxeo",
+        "descripcion": "Pon a prueba tu fuerza con esta máquina de boxeo",
+        "cantidad": 1,
+        "alquiler": 250
+    },
+    {
+        "id": "09",
+        "nombre": "Máquina de baloncesto",
+        "descripcion": "Prueba tu puntería con esta máquina de baloncesto",
+        "cantidad": 2,
+        "alquiler": 275
+    },
+    {
+        "id": "10",
+        "nombre": "Máquina de skee-ball",
+        "descripcion": "Juego de lanzamiento de bolas para todas las edades",
+        "cantidad": 3,
+        "alquiler": 225
+    },
+    {
+        "id": "11",
+        "nombre": "Máquina de dardos",
+        "descripcion": "Juego de precisión y puntería",
+        "cantidad": 2,
+        "alquiler": 200
+    },
+    {
+        "id": "12",
+        "nombre": "Máquina de videojuegos retro",
+        "descripcion": "Revive los clásicos con esta máquina de videojuegos retro",
+        "cantidad": 2,
+        "alquiler": 275
+    },
+    {
+        "id": "13",
+        "nombre": "Máquina de karaoke",
+        "descripcion": "Canta tus canciones favoritas con esta máquina de karaoke",
+        "cantidad": 1,
+        "alquiler": 350
+    },
+    {
+        "id": "14",
+        "nombre": "Máquina de juegos de mesa",
+        "descripcion": "Disfruta de varios juegos de mesa en una sola máquina",
+        "cantidad": 1,
+        "alquiler": 225
+    },
+    {
+        "id": "15",
+        "nombre": "Máquina de juegos de cartas",
+        "descripcion": "Juega a tus juegos de cartas favoritos en esta máquina",
+        "cantidad": 2,
+        "alquiler": 200
+    },
+    {
+        "id": "16",
+        "nombre": "Máquina de juegos de rol",
+        "descripcion": "Sumérgete en aventuras épicas con esta máquina de juegos de rol",
+        "cantidad": 2,
+        "alquiler": 325
+    },
+    {
+        "id": "17",
+        "nombre": "Máquina de juegos de estrategia",
+        "descripcion": "Pon a prueba tu ingenio con esta máquina de juegos de estrategia",
+        "cantidad": 2,
+        "alquiler": 300
+    },
+    {
+        "id": "18",
+        "nombre": "Máquina de juegos de disparos",
+        "descripcion": "Prueba tu puntería y reflejos con esta máquina de juegos de disparos",
+        "cantidad": 2,
+        "alquiler": 350
+    },
+    {
+        "id": "19",
+        "nombre": "Máquina de juegos de deportes",
+        "descripcion": "Disfruta de tus deportes favoritos en esta máquina de juegos",
+        "cantidad": 2,
+        "alquiler": 275
+    },
+    {
+        "id": "20",
+        "nombre": "Máquina de juegos de aventura",
+        "descripcion": "Embárcate en emocionantes aventuras con esta máquina de juegos",
+        "cantidad": 2,
+        "alquiler": 325
+    },
+    {
+        "id": "21",
+        "nombre": "Trampolines de salto",
+        "descripcion": "Trampolines de alta calidad para diversión sin fin",
+        "cantidad": 3,
+        "alquiler": 200
+    },
+    {
+        "id": "22",
+        "nombre": "Castillo inflable de escalada",
+        "descripcion": "Un desafiante castillo inflable con una pared de escalada",
+        "cantidad": 2,
+        "alquiler": 250
+    },
+    {
+        "id": "23",
+        "nombre": "Castillo inflable de obstáculos",
+        "descripcion": "Un emocionante castillo inflable lleno de obstáculos",
+        "cantidad": 2,
+        "alquiler": 275
+    },
+    {
+        "id": "24",
+        "nombre": "Salto de cuerda",
+        "descripcion": "Juego de salto de cuerda para niños y adultos",
+        "cantidad": 5,
+        "alquiler": 100
+    },
+    {
+        "id": "25",
+        "nombre": "Juegos de concursos infantiles",
+        "descripcion": "Variedad de juegos de concursos para entretener a los niños",
+        "cantidad": 3,
+        "alquiler": 150
+    },
+    {
+        "id": "26",
+        "nombre": "Retos interesantes",
+        "descripcion": "Variedad de retos para hacer la fiesta más emocionante",
+        "cantidad": 3,
+        "alquiler": 200
+    },
+    {
+        "id": "27",
+        "nombre": "Juegos de mesa",
+        "descripcion": "Variedad de juegos de mesa para todas las edades",
+        "cantidad": 4,
+        "alquiler": 150
+    },
+    {
+        "id": "28",
+        "nombre": "Jenga gigante",
+        "descripcion": "Jenga de tamaño gigante para un desafío mayor",
+        "cantidad": 2,
+        "alquiler": 200
+    },
+    {
+        "id": "29",
+        "nombre": "Castillo inflable de princesa",
+        "descripcion": "Un hermoso castillo inflable con temática de princesa",
+        "cantidad": 2,
+        "alquiler": 275
+    },
+    {
+        "id": "30",
+        "nombre": "Castillo inflable de piratas",
+        "descripcion": "Un emocionante castillo inflable con temática de piratas",
+        "cantidad": 2,
+        "alquiler": 275
+    },
+    {
+        "id": "31",
+        "nombre": "Castillo inflable de selva",
+        "descripcion": "Un divertido castillo inflable con temática de selva",
+        "cantidad": 2,
+        "alquiler": 275
+    },
+    {
+        "id": "32",
+        "nombre": "Castillo inflable de superhéroes",
+        "descripcion": "Un emocionante castillo inflable con temática de superhéroes",
+        "cantidad": 2,
+        "alquiler": 275
+    },
+    {
+        "id": "33",
+        "nombre": "Castillo inflable de carreras",
+        "descripcion": "Un emocionante castillo inflable con temática de carreras",
+        "cantidad": 2,
+        "alquiler": 275
+    }
+]
+
+ 
+   

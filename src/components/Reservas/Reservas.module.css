@@ -1,0 +1,89 @@
+
+.granContenedor {
+    height: 100vh; /* Ocupa el 100% de la altura del viewport */
+    padding: 4rem;
+    overflow-y: auto; /* Permite el scroll si es necesario */
+}
+
+.projectList {
+    padding: 0;
+    list-style: none;
+}
+
+.juegoContenedor {
+    padding: 1rem;
+    cursor: pointer;
+}
+
+.textContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem;
+    border: 0.5px solid #f5e9fc;
+    border-left: none;
+    border-right: none;
+}
+
+.juegoNombre {
+    font-weight: 200;
+    font-size: 1.5rem;
+    color: black;
+}
+
+.juegoDetalles {
+    font-weight: 100;
+    font-size: 1rem;
+    color: black;
+}
+
+.title-project {
+    font-weight: 100;
+    font-size: 3.2rem;
+    margin-bottom: 2rem;
+}
+
+.emoji-1 {
+    font-size: 2.5rem;
+    border-radius: 5rem;
+    padding: 15px;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.title1 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
+    font-weight: 200;
+    font-size: 35px;
+    color: #ca63d1;
+    padding: 2rem;
+    
+}
+
+.noReservas {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    height: 100%; 
+    font-size: 1.5rem; 
+    color: #555; 
+}
+
+
+
+
+@media only screen and (max-width: 600px) {
+    .juegoNombre {
+        font-size: 1.7rem;
+    }
+    
+    .title-project {
+        font-size: 2.9rem;
+    }
+}

@@ -1,0 +1,96 @@
+
+/* ListarProductos.module.css */
+
+/* ListarProductos.module.css */
+.container {
+  height: 120vh; 
+  width: 230px; 
+  background-color: #ffffff; 
+  display: flex;
+  justify-content: center; /* Centra verticalmente */
+  align-items: center; /* Centra horizontalmente */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px 130px 130px 8px;
+}
+
+.mobileOverlay {
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+  height: 100vh; 
+  width: 100vw; 
+  background-color: rgba(255, 255, 255, 0.9);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  z-index: 999; 
+}
+
+.contBtn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; 
+}
+
+.titleL {
+  margin-bottom: 20px; 
+}
+
+.btnAgregar {
+  margin: 10px 0; /* Espacio entre los botones */
+}
+
+.msj {
+  font-size: 20px;
+  color: #795af6;
+  padding: 3rem;
+  
+}
+
+.contMain {
+  display: flex;
+  flex-direction: row;
+  gap: 1.5rem;
+  background-color: #f0f0f0;
+  padding: 1.5rem;
+}
+
+.logo {
+  position: absolute;
+  margin-bottom: 500px;
+  height: 60px;
+}
+
+
+.logo2 {
+  position: absolute;
+}
+
+.btnAgregar {
+  padding: 0.5rem;
+  color: #795af6;
+  font-size: 16px;
+  transition: opacity 0.3s ease;
+}
+
+.btnAgregar:hover {
+  opacity: 0.8;
+}
+
+.selected {
+  padding: 0.5rem;
+  background-color: #f5e9fc;
+  color: #795af6;
+  border-radius: 8px;
+}
+
+.panelContainer {
+  width: 1050px;
+  height: 600px;
+  background-image: url('./iconoftransparent.svg');
+  background-size: 22%; /* Ajusta el tamaño de la imagen a la mitad de su tamaño original */
+  background-position: center;
+  background-repeat: no-repeat;
+}

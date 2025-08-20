@@ -1,0 +1,18 @@
+.productGrid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+
+}
+
+.paginationControls {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 40px;
+}
+
+.productGrid> :nth-child(n + 10) {
+  display: none;
+}

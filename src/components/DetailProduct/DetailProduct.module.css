@@ -1,0 +1,188 @@
+.detailContainer {
+  margin: 0 auto;
+}
+
+.contentDos{
+  padding: 2rem;
+}
+
+.productHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  background-color: #795af6;
+  padding: 2rem 4rem 2rem 4rem;
+}
+
+.productTitle {
+  margin: 0;
+  color: white;
+  font-size: 35px;
+}
+
+.productBody {
+  display: flex;
+  justify-content: space-between;
+  padding: 3rem 4rem 0rem 4rem;
+}
+
+.productContent{
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  justify-content: center;
+  border: 1px solid #f5e9fc;
+  border-radius: 8px;
+}
+
+.productImageSection {
+  width: 50%;
+}
+
+.mainImage {
+  width: 600px;
+  height: 430px;
+  border-radius: 4px;
+  border: 1px solid #f5e9fc;
+  object-fit: cover;
+}
+
+.thumbnailContainer {
+  display: flex;
+  gap: 10px;
+  padding: 1rem;
+  margin-top: 10px;
+  border-radius: 4px;
+  border: 1px solid #f5e9fc;
+}
+
+.thumbnail {
+  width: 80px;
+  height: 80px;
+  border-radius: 4px;
+  border: 1px solid #f5e9fc;
+  cursor: pointer;
+  object-fit: cover;
+}
+
+.contentDescription {
+  padding: 2rem;
+}
+
+.productDescription {
+  font-size: 20px;
+  color: #795af6;
+  margin-top: 20px;
+  padding: 2rem;
+  border: 1px solid #f5e9fc;
+  border-radius: 8px;
+  display: flex;
+ 
+
+}
+
+.schedulerSection {
+  width: 50%;
+  padding-left: 20px;
+}
+
+.contentCaract {
+  padding: 2rem;
+}
+
+.productCharacteristics {
+  border: 1px solid #f5e9fc;
+  border-radius: 8px;
+  padding: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.characteristic {
+  box-sizing: border-box;
+}
+
+.characteristicItem {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+
+.characteristicItem p {
+  margin-left: 5px;
+  font-size: 20px;
+  color: #795af6;
+}
+
+/* Estilos para dispositivos móviles */
+@media (max-width: 767px) {
+  .productHeader {
+    padding: 1rem;
+  }
+
+  .productTitle {
+    font-size: 24px;
+  }
+
+  .productBody {
+    flex-direction: column;
+    gap: 1rem;
+    padding: 1rem;
+  }
+
+  .productImageSection,
+  .schedulerSection {
+    width: 100%;
+  }
+
+  .productImage {
+    width: 100%;
+    height: auto;
+  }
+
+  .thumbnailContainer {
+    justify-content: center;
+  }
+
+  .thumbnail {
+    width: 60px;
+    height: 60px;
+  }
+
+  .productDescription {
+    font-size: 16px;
+  }
+
+  .productCharacteristics {
+    width: 100%;
+    flex-direction: column;
+    padding: 1rem;
+  }
+
+  .contCarac {
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+.spinnerContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Estilos para tabletas */
+@media (min-width: 768px) and (max-width: 1023px) {
+  .productBody {
+    gap: 1rem;
+  }
+
+  .productImage {
+    width: 350px;
+    height: 350px;
+  }
+}

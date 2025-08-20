@@ -1,0 +1,54 @@
+.containerPrincipal {
+    padding: 20px;
+  }
+  
+  .formContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  
+  .inputContainer {
+    margin-bottom: 15px;
+  }
+  
+  .label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .textInput {
+    height: 40px;
+  }
+  
+  .textAreaInput {
+    height: 80px;
+    resize: none;
+  }
+  
+  .imagePreview {
+    margin-top: 10px;
+    max-width: 100%;
+    max-height: 200px;
+    border: 1px solid #ccc;
+  }
+  
+  .error {
+    color: red;
+    margin-bottom: 10px;
+  }
+  

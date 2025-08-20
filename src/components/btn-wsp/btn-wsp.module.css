@@ -1,0 +1,19 @@
+.whatsappBtn {
+    position: fixed;
+    bottom: 93px;
+    right: 20px;
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    background-color: #25D366;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    box-shadow: 0 2px 10px rgba(14, 13, 13, 0.1);
+
+}
+
+.whatsappBtn:hover {
+    background-color: #128C7E;
+}

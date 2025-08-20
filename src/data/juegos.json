@@ -1,0 +1,436 @@
+ [
+    {
+      "id": 1,
+      "nombre": "Castillo Inflable",
+      "descripcion": "Ideal para niños pequeños, diversión asegurada",
+      "largo": 30,
+      "ancho": 20,
+      "altura": 10,
+      "capacidad": 4,
+      "valorArriendo": 2000,
+      "cantidad": 3,
+      "img_urls": [
+        "/assets/castilloinflable1.jpeg",
+        "/assets/castilloinflable2.jpeg",
+        "/assets/castilloinflable3.jpeg",
+        "/assets/castilloinflable4.jpeg",
+        "/assets/centrodejuegos.jpeg"
+    ],
+      "tipo": {
+        "title": "Inflables y Castillos",
+        "description": "Juegos inflables para todas las edades",
+        "img_url": "../public/assets/inflables.jpg"
+      },
+      "caracteristicas": [
+        "Confortable",
+        "Fácil de instalar",
+        "Seguro para niños",
+        "Material resistente",
+        "Colores brillantes"
+    ],
+      "promedioValoracion": 4.5
+    },
+    {
+      "id": 2,
+      "nombre": "Pelota Gigante",
+      "descripcion": "Clásica pelota gigante",
+      "largo": 50,
+      "ancho": 50,
+      "altura": 15,
+      "capacidad": 20,
+      "valorArriendo": 5000,
+      "cantidad": 2,
+      "img_urls": [
+          "/assets/pelota_gigante_1.jpg",
+          "/assets/pelota_gigante_2.jpg",
+          "/assets/pelota_gigante_3.jpg",
+          "/assets/pelota_gigante_4.jpg",
+          "/assets/pelota_gigante_5.jpg"
+      ],
+      "tipo": {
+          "title": "Inflables y Castillos",
+          "description": "Juegos inflables para todas las edades",
+          "img_url": "../public/assets/agua.jpg"
+      },
+      "caracteristicas": [
+          "Divertido",
+          "Resistente",
+          "Colorido",
+          "Fácil de manejar",
+          "Ideal para eventos grandes"
+      ],
+      "promedioValoracion": 4.8
+  },
+  {
+      "id": 3,
+      "nombre": "Pileta Inflable",
+      "descripcion": "Una gran pileta inflable para que los niños se diviertan en el agua.",
+      "largo": 50,
+      "ancho": 30,
+      "altura": 10,
+      "capacidad": 10,
+      "valorArriendo": 3000,
+      "cantidad": 2,
+      "img_urls": [
+          "/assets/poolgames.jpeg",
+          "/assets/p.png",
+          "/assets/p2.jpeg",
+          "/assets/p3.webp",
+          "/assets/p4.jpeg"
+      ],
+      "tipo": {
+          "title": "Juegos de Agua",
+          "description": "Juegos inflables para todas las edades",
+          "img_url": "../public/assets/inflables.jpg"
+      },
+      "caracteristicas": [
+          "Refrescante",
+          "Espaciosa",
+          "Fácil de inflar",
+          "Colorida",
+          "Ideal para verano"
+      ],
+      "promedioValoracion": 4.2
+  },
+  {
+      "id": 4,
+      "nombre": "Obstáculos para Niños",
+      "descripcion": "Un circuito de obstáculos diseñado para desafiar a los niños.",
+      "largo": 40,
+      "ancho": 20,
+      "altura": 5,
+      "capacidad": 15,
+      "valorArriendo": 2500,
+      "cantidad": 3,
+      "img_urls": [
+          "/assets/obstaculos_1.jpg",
+          "/assets/obstaculos_2.jpg",
+          "/assets/obstaculos_3.jpg",
+          "/assets/obstaculos_4.jpg",
+          "/assets/obstaculos_5.jpg"
+      ],
+      "tipo": {
+          "title": "Niños Pequeños",
+          "description": "Juegos que desafían tus habilidades",
+          "img_url": "../public/assets/ninos.jpg"
+      },
+      "caracteristicas": [
+          "Desafiante",
+          "Seguro",
+          "Divertido",
+          "Fácil de montar",
+          "Adecuado para eventos"
+      ],
+      "promedioValoracion": 4.5
+  },
+  {
+      "id": 5,
+      "nombre": "Lego Gigante",
+      "descripcion": "Piezas de lego gigantes para construir lo que imagines.",
+      "largo": 10,
+      "ancho": 10,
+      "altura": 10,
+      "capacidad": 6,
+      "valorArriendo": 1500,
+      "cantidad": 4,
+      "img_urls": [
+          "/assets/lego_1.jpg",
+          "/assets/lego_2.jpg",
+          "/assets/lego_3.jpg",
+          "/assets/lego_4.jpg",
+          "/assets/lego_5.jpg"
+      ],
+      "tipo": {
+          "title": "Juegos de Destreza",
+          "description": "Juegos que desarrollan la creatividad",
+          "img_url": "../public/assets/destreza.jpg"
+      },
+      "caracteristicas": [
+          "Creativo",
+          "Duradero",
+          "Fácil de limpiar",
+          "Estimula la imaginación",
+          "Ideal para todas las edades"
+      ],
+      "promedioValoracion": 4.6
+  },
+  {
+      "id": 6,
+      "nombre": "Soga de Fuerza",
+      "descripcion": "Juego de tirar la soga para equipos de todas las edades.",
+      "largo": 20,
+      "ancho": 2,
+      "altura": 2,
+      "capacidad": 10,
+      "valorArriendo": 1000,
+      "cantidad": 5,
+      "img_urls": [
+          "/assets/juegoinfantil1.jpeg",
+          "/assets/s.jpg",
+          "/assets/s2.jpeg",
+          "/assets/s3.jpeg",
+          "/assets/s4.jpeg"
+      ],
+      "tipo": {
+          "title": "Juegos de Destreza",
+          "description": "Juegos que desafían tus habilidades",
+          "img_url": "../public/assets/destreza.jpg"
+      },
+      "caracteristicas": [
+          "Competitivo",
+          "Resistente",
+          "Divertido",
+          "Ideal para grupos",
+          "Fácil de transportar"
+      ],
+      "promedioValoracion": 4.3
+  },
+  {
+      "id": 7,
+      "nombre": "Jenga Gigante",
+      "descripcion": "El clásico juego de Jenga en una versión gigante.",
+      "largo": 2,
+      "ancho": 2,
+      "altura": 3,
+      "capacidad": 4,
+      "valorArriendo": 1200,
+      "cantidad": 4,
+      "img_urls": [
+          "/assets/jenga_1.jpg",
+          "/assets/jenga_2.jpg",
+          "/assets/jenga_3.jpg",
+          "/assets/jenga_4.jpg",
+          "/assets/jenga_5.jpg"
+      ],
+      "tipo": {
+          "title": "Juegos Mecánicos",
+          "description": "Juegos que desafían tus habilidades",
+          "img_url": "../public/assets/mecanico.jpg"
+      },
+      "caracteristicas": [
+          "Emocionante",
+          "Duradero",
+          "Ideal para eventos",
+          "Fácil de jugar",
+          "Divertido"
+      ],
+      "promedioValoracion": 4.4
+  },
+  {
+      "id": 8,
+      "nombre": "Pelotero",
+      "descripcion": "Un área de juegos con bolas de colores para los más pequeños.",
+      "largo": 30,
+      "ancho": 30,
+      "altura": 10,
+      "capacidad": 20,
+      "valorArriendo": 2000,
+      "cantidad": 2,
+      "img_urls": [
+          "/assets/piscina_pelotas_1.jpg",
+          "/assets/piscina_pelotas_2.jpg",
+          "/assets/piscina_pelotas_3.jpg",
+          "/assets/piscina_pelotas_4.jpg",
+          "/assets/piscina_pelotas_5.jpg"
+      ],
+      "tipo": {
+          "title": "Niños Pequeños",
+          "description": "Juegos inflables para todas las edades",
+          "img_url": "../public/assets/ninos.jpg"
+      },
+      "caracteristicas": [
+          "Divertido",
+          "Colorido",
+          "Seguro",
+          "Espacioso",
+          "Ideal para grupos"
+      ],
+      "promedioValoracion": 4.6
+  },
+  {
+      "id": 9,
+      "nombre": "Metegol",
+      "descripcion": "Mesa de futbolín para jugar en equipo.",
+      "largo": 2,
+      "ancho": 1.2,
+      "altura": 0.9,
+      "capacidad": 4,
+      "valorArriendo": 1500,
+      "cantidad": 3,
+      "img_urls": [
+          "/assets/taca_1.jpg",
+          "/assets/taca_2.jpg",
+          "/assets/taca_3.jpg",
+          "/assets/taca_4.jpg",
+          "/assets/taca_5.jpg"
+      ],
+      "tipo": {
+          "title": "Juegos Mecánicos",
+          "description": "Juegos que desafían tus habilidades",
+          "img_url": "../public/assets/mecanico.jpg"
+      },
+      "caracteristicas": [
+          "Competitivo",
+          "Resistente",
+          "Ideal para eventos",
+          "Divertido",
+          "Fácil de montar"
+      ],
+      "promedioValoracion": 4.5
+  },
+  {
+      "id": 10,
+      "nombre": "Toro Mecánico",
+      "descripcion": "Desafía tus habilidades de equilibrio en el toro mecánico.",
+      "largo": 25,
+      "ancho": 15,
+      "altura": 5,
+      "capacidad": 6,
+      "valorArriendo": 2500,
+      "cantidad": 3,
+      "img_urls": [
+          "/assets/Toro_7.jpg",
+          "/assets/Toro_2.jpg",
+          "/assets/Toro_3.jpg",
+          "/assets/Toro_8.jpg",
+          "/assets/Toro_1.jpg"
+      ],
+      "tipo": {
+          "title": "Juegos Mecánicos",
+          "description": "Para los amantes de la adrenalina",
+          "img_url": "../public/assets/mecanico.jpg"
+      },
+      "caracteristicas": [
+          "Divertido",
+          "Resistente",
+          "Fácil de inflar",
+          "Ideal para competencias",
+          "Colorido"
+      ],
+      "promedioValoracion": 4.7
+  },
+  {
+    "id": 11,
+    "nombre": "Paintball",
+    "descripcion": "Disfruta de una emocionante batalla de paintball con amigos.",
+    "largo": 30,
+    "ancho": 20,
+    "altura": 5,
+    "capacidad": 10,
+    "valorArriendo": 3000,
+    "cantidad": 5,
+    "img_urls": [
+        "/assets/pa1.jpg",
+        "/assets/pa2.jpg",
+       "/assets/pa3.jpg",
+       "/assets/pa4.jpg",
+       "/assets/pa5.jpg"
+    ],
+   "tipo": {
+          "title": "Juegos de Destreza",
+          "description": "Juegos que desafían tus habilidades",
+          "img_url": "../public/assets/destreza.jpg"
+      },
+    "caracteristicas": [
+        "Estrategia en equipo",
+        "Aventura al aire libre",
+        "Seguridad garantizada",
+        "Diversión asegurada"
+    ],
+    "promedioValoracion": 4.8
+},
+{
+    "id": 12,
+    "nombre": "Arco y Flecha",
+    "descripcion": "Pone a prueba tu puntería y concentración en el tiro con arco.",
+    "largo": 20,
+    "ancho": 15,
+    "altura": 3,
+    "capacidad": 4,
+    "valorArriendo": 2000,
+    "cantidad": 4,
+    "img_urls": [
+        "/assets/ar1.jpg",
+        "/assets/ar2.jpg",
+        "/assets/ar3.jpg",
+        "/assets/ar4.jpg",
+        "/assets/ar5.jpg"
+    ],
+  "tipo": {
+          "title": "Juegos de Destreza",
+          "description": "Juegos que desafían tus habilidades",
+          "img_url": "../public/assets/destreza.jpg"
+      },
+    "caracteristicas": [
+        "Desafiante",
+        "Ideal para todas las edades",
+        "Mejora la concentración",
+        "Equipamiento seguro"
+    ],
+    "promedioValoracion": 4.6
+},
+{
+    "id": 13,
+    "nombre": "Circuito de Aventura",
+    "descripcion": "Un emocionante circuito lleno de obstáculos y desafíos.",
+    "largo": 40,
+    "ancho": 20,
+    "altura": 6,
+    "capacidad": 8,
+    "valorArriendo": 3500,
+    "cantidad": 3,
+    "img_urls": [
+        "/assets/ci1.jpg",
+        "/assets/ci2.jpg",
+        "/assets/ci3.jpg",
+        "/assets/ci4.jpg",
+        "/assets/ci5.jpg"
+    ],
+    "tipo": {
+        "title": "Juegos de Destreza",
+        "description": "Juegos que desafían tus habilidades",
+        "img_url": "../public/assets/destreza.jpg"
+    },
+    "caracteristicas": [
+        "Ideal para grupos",
+        "Fomenta la competencia",
+        "Mejora la agilidad",
+        "Diversión a cada paso"
+    ],
+    "promedioValoracion": 4.9
+},
+{
+    "id": 14,
+    "nombre": "Tiro al Blanco",
+    "descripcion": "Muestra tu puntería en este emocionante juego de tiro.",
+    "largo": 15,
+    "ancho": 10,
+    "altura": 3,
+    "capacidad": 5,
+    "valorArriendo": 2200,
+    "cantidad": 4,
+    "img_urls": [
+        "/assets/ti1.jpg",
+        "/assets/ti2.jpg",
+        "/assets/ti3.jpg",
+        "/assets/ti4.jpg",
+        "/assets/ti5.jpg"
+    ],
+    "tipo": {
+        "title": "Juegos de Destreza",
+        "description": "Juegos que desafían tus habilidades",
+        "img_url": "../public/assets/destreza.jpg"
+    },
+    "caracteristicas": [
+        "Desafiante",
+        "Ideal para competencias",
+        "Diversión en equipo",
+        "Fomenta la concentración"
+    ],
+    "promedioValoracion": 4.7
+}
+    
+  ]
+
+  
+  
